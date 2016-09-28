@@ -1,0 +1,17 @@
+div {
+    width: 600px;
+    border: 5px solid black;
+    height: 150px;
+    margin: 100px;
+    border-radius: 10px;
+}
+
+h1{
+	color: blue;
+	text-align: center;
+}
+
+input{
+	padding: 2px;
+	margin-left: 10px;
+}
